@@ -1,28 +1,32 @@
 package com.telugucalendar.appsworld.Activites
 
 
+import android.app.Activity
 import android.os.Bundle
 import android.os.Handler
-import android.util.Log
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.FragmentManager
-import com.google.android.gms.ads.AdListener
 import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.AdView
 import com.google.android.gms.ads.InterstitialAd
 import com.google.android.gms.ads.MobileAds
 import com.google.android.material.bottomnavigation.BottomNavigationView
+import com.google.firebase.messaging.FirebaseMessaging
+import com.google.gson.Gson
+import com.telugucalendar.appsworld.Adapters.TempleinfoAdapter
 import com.telugucalendar.appsworld.Fragments.MoreOptionsFrag
 import com.telugucalendar.appsworld.Fragments.MuhurthaluFrag
 import com.telugucalendar.appsworld.Fragments.PandugaluFrag
 import com.telugucalendar.appsworld.Fragments.RashiPahlaluFrag
+import com.telugucalendar.appsworld.Model.Templeinfo
 import com.telugucalendar.appsworld.R
 import com.telugucalendar.appsworld.databinding.ActivityHomeBinding
+import com.telugucalendar.appsworld.helper.ApiConfig
+import com.telugucalendar.appsworld.helper.Constant
 import com.telugucalendar.appsworld.helper.Session
-
-import java.util.concurrent.Executors
-import java.util.concurrent.ScheduledExecutorService
-import java.util.concurrent.TimeUnit
+import org.json.JSONArray
+import org.json.JSONObject
 
 class HomeActivity : AppCompatActivity() {
 
@@ -30,6 +34,7 @@ class HomeActivity : AppCompatActivity() {
     private var adView: AdView? = null
     private var interstitial: InterstitialAd? = null
     private var handler: Handler? = null
+    private var activity: Activity? = null
     private var session: Session? = null
     private var i = 1
 
@@ -45,7 +50,20 @@ class HomeActivity : AppCompatActivity() {
 
         fm = supportFragmentManager
         navbar = activityHomeBinding?.BottomNavigation
+        activity = this@HomeActivity
         session = Session(applicationContext)
+
+        FirebaseMessaging.getInstance().getToken().addOnSuccessListener { token ->
+//            session!!.setData(
+//                Constant.FCM_ID,
+//                token
+//            )
+
+
+            sentfcmtoserver(token)
+
+        }
+
         fm?.beginTransaction()?.replace(
             R.id.Container,
             com.telugucalendar.appsworld.Fragments.panchangamFrag()
@@ -95,6 +113,44 @@ class HomeActivity : AppCompatActivity() {
                 else -> false
             }
         }
+    }
+
+    private fun sentfcmtoserver(token: String?) {
+
+
+        val params = HashMap<String, String>()
+        params["fcm_id"] = token.toString()
+        ApiConfig.RequestToVolley({ result, response ->
+
+            if (result) {
+                try {
+                    val jsonObject = JSONObject(response)
+                    if (jsonObject.getBoolean(Constant.SUCCESS)) {
+
+//                        Toast.makeText(
+//                            activity,
+//                            jsonObject.getString(Constant.MESSAGE),
+//                            Toast.LENGTH_SHORT
+//                        ).show()
+
+
+
+
+                    } else {
+//                        Toast.makeText(
+//                            activity,
+//                            jsonObject.getString(Constant.MESSAGE),
+//                            Toast.LENGTH_SHORT
+//                        ).show()
+                    }
+                } catch (e: Exception) {
+                    e.printStackTrace()
+                }
+            }
+        }, activity, Constant.ADD_TOKEN, params, true)
+
+
+
     }
 
     private fun loadInterstitial() {

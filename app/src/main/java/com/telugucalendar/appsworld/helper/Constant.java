@@ -18,7 +18,8 @@ public class Constant {
     public static final String HOROSCOPE_URL = BaseUrl + "horoscope.php";
     public static final String IMAGE_URL = BaseUrl + "images-category.php";
     public static final String IMAGE_LIST_URL = BaseUrl + "images-list.php";
-    public static final String TRENDING_IMAGES_LIST_URL = BaseUrl + "trending-images-list.php";
+ public static final String ADD_TOKEN= BaseUrl + "add_token.php";
+ public static final String TRENDING_IMAGES_LIST_URL = BaseUrl + "trending-images-list.php";
     public static final String TRENDING_VIDEOS_LIST_URL = BaseUrl + "trending-videos-list.php";
     public static final String SEARCH_IMAGE_URL = BaseUrl + "search-image.php";
     public static final String SEARCH_VIDEO_URL = BaseUrl + "search-video.php";
