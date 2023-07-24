@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:paddingHorizontal="@dimen/_10sdp"
+    >
+
+
+
+
+    <LinearLayout
+        android:id="@+id/l1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/corner_stroke"
+        android:layout_marginVertical="@dimen/_10sdp"
+        >
+
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="2dp"
+        app:cardElevation="0dp"
+        app:cardBackgroundColor="@color/Primaryblue">
+
+        <TextView
+            android:id="@+id/tvDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="12-12-12"
+            android:textColor="@color/white"
+            android:fontFamily="@font/sree"
+            android:gravity="center"
+            android:layout_marginVertical="10dp"
+            android:layout_marginHorizontal="20dp"/>
+    </androidx.cardview.widget.CardView>
+    <TextView
+        android:id="@+id/tvFestival"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Some Accosation"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:fontFamily="@font/sree"
+        android:layout_marginVertical="10dp"
+        android:layout_marginHorizontal="20dp"/>
+
+
+    </LinearLayout>
+</LinearLayout>

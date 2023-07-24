@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activites.HomeActivity"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white">
+
+
+    <FrameLayout
+        android:layout_above="@+id/AdView"
+        android:id="@+id/Container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/BottomNavigation"
+        android:layout_centerInParent="true" />
+
+
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/AdView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-5044124034987819/5014719300" />
+
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/BottomNavigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/PrimaryRed"
+        app:itemTextColor="@color/white"
+        app:itemIconSize="26sp"
+        android:padding="3dp"
+        app:menu="@menu/bottombar_menu"
+        app:itemTextAppearanceActive="@style/BottomNavigationViewTextStyle"
+        app:labelVisibilityMode="labeled"
+        />
+
+
+</RelativeLayout>

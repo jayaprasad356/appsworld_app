@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "509506361427",
+    "project_id": "telugu-calendar-e64a7",
+    "storage_bucket": "telugu-calendar-e64a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509506361427:android:2a44f9920cfac8d55e0ea6",
+        "android_client_info": {
+          "package_name": "com.telugucalendar.appsworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509506361427-fa6enqc9kj7vrrgbkolpksraqkh1c3st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaFpO0tI5R0ZXVcVGcT4T1gk5SLHqjRQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509506361427-fa6enqc9kj7vrrgbkolpksraqkh1c3st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5044124034987819~1846109410"
+    }
+  ],
+  "configuration_version": "1"
+}

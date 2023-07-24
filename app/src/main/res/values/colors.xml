@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg">#7F13BE</color>
+    <color name="PrimaryRed">#28A3DD</color>
+    <color name="Primaryblue">#28A3DD</color>
+    <color name="dark_blue">#0315f5</color>
+
+
+    <color name="calHeaderT">#28A3DD</color>
+    <color name="calMonth">#006D98</color>
+    <color name="calDates">#009EDB</color>
+    <color name="callight">#9988DBE3</color>
+    <color name="calSunrise">#f1fac0</color>
+    <color name="calPan1">#bcdd11</color>
+    <color name="calPan2">#FFFFFF</color>
+    <color name="grey">#f2f2f2</color>
+    <color name="horoBg">#003b46</color>
+
+
+    <color name="seek_bar_background">#ababab</color>
+    <color name="seek_bar_progress">#0D232A</color>
+    <color name="seek_bar_secondary_progress">#3399CC</color>
+
+</resources>

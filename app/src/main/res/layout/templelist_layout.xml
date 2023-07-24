@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardtemple"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_20sdp"
+            app:cardCornerRadius="@dimen/_10sdp"
+            android:backgroundTint="@color/PrimaryRed"
+            android:layout_marginHorizontal="@dimen/_10sdp"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_10sdp"
+                android:orientation="horizontal"
+                >
+
+
+
+                <ImageView
+                    android:scaleType="fitXY"
+                    android:id="@+id/imgtemple"
+                    android:layout_width="@dimen/_100sdp"
+                    android:layout_height="@dimen/_100sdp"
+                    />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/_10sdp"
+                    >
+
+
+
+                    <TextView
+                        android:id="@+id/tvTemplename"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Temple Name"
+                        android:fontFamily="@font/timmanaregular"
+
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/_20sdp"
+                        />
+
+                    <TextView
+                        android:layout_below="@+id/tvTemplename"
+                        android:id="@+id/tvTempleLocation"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/nats"
+                        android:textColor="@color/white"
+                        android:text="Temple Location"
+                        android:textSize="@dimen/_12sdp"
+                        />
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+
+
+        </com.google.android.material.card.MaterialCardView>
+
+    </RelativeLayout>
+
+</RelativeLayout>

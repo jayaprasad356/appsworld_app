@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<date>1</date>
+		<rutuvu>వర్ష ఋతువు</rutuvu>
+		<masam>భాద్రపద </masam>
+		<paksham>కృష్ణపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>విదియ 09:42 am</thidi>
+		<vaara>ఆదివారము</vaara>
+		<nakshatra>అశ్విని 07:27 pm</nakshatra>
+		<yogam>వ్యాఘాతము  01:13 pm</yogam>
+		<karana>గరజి  09:42 am,  పణజి  08:34 pm </karana>
+		<rahu>04:30 pm - 06:00 pm</rahu>
+		<yamag>12:19 pm – 01:59 pm</yamag>
+		<varjyam>04:38 am – 06:10 am</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>05:02 pm - 05:53 pm</dhurmuhu>
+		<sunrise>06:10</sunrise>
+		<sunset>06:01</sunset>
+		<moonrise>07:36pm</moonrise>
+		<moonset>08:46am</moonset>
+	</record>
+	<record>
+		<date>2</date>
+		<rutuvu>వర్ష ఋతువు</rutuvu>
+		<masam>భాద్రపద </masam>
+		<paksham>కృష్ణపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>తదియ 07:36 am</thidi>
+		<vaara>సోమవారము</vaara>
+		<nakshatra>భరణి 06:24 pm</nakshatra>
+		<yogam>హర్షణము  10:28 am</yogam>
+		<karana>భద్ర  07:36 am,  బవ  06:49 pm </karana>
+		<rahu>07:30 am - 09:00 am</rahu>
+		<yamag>10:38 am – 12:19 pm</yamag>
+		<varjyam>06:14 am – 07:48 am</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>12:47 pm - 01:38 pm&lt;br&gt;03:20 pm - 04:11 pm</dhurmuhu>
+		<sunrise>06:10</sunrise>
+		<sunset>06:01</sunset>
+		<moonrise>08:20pm</moonrise>
+		<moonset>09:46am</moonset>
+		<festival>గాంధీ జయంతి</festival>
+	</record>
+	<record>
+		<date>3</date>
+		<rutuvu>వర్ష ఋతువు</rutuvu>
+		<masam>భాద్రపద </masam>
+		<paksham>కృష్ణపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>చవితి  06:12 am పంచమి </thidi>
+		<vaara>మంగళవారము</vaara>
+		<nakshatra>కృత్తిక 06:03 pm</nakshatra>
+		<yogam>వజ్రము  08:17 am</yogam>
+		<karana>భాలవ  06:12 am,  కౌలవ  05:47 pm </karana>
+		<rahu>03:00 pm - 04:30 pm</rahu>
+		<yamag>08:58 am – 10:39 am</yamag>
+		<varjyam>10:20 am – 11:58 am</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>08:32 am - 09:23 am&lt;br&gt; 11:15 pm - 12:00 am</dhurmuhu>
+		<sunrise>06:10</sunrise>
+		<sunset>06:00</sunset>
+		<moonrise>09:08pm</moonrise>
+		<moonset>10:46am</moonset>
+	</record>
+	<record>
+		<date>4</date>
+		<rutuvu>వర్ష ఋతువు</rutuvu>
+		<masam>భాద్రపద </masam>
+		<paksham>కృష్ణపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>పంచమి 05:33 am షష్టి </thidi>
+		<vaara>బుధవారము</vaara>
+		<nakshatra>రోహిణి 06:29 pm</nakshatra>
+		<yogam>సిద్ధి  06:43 am</yogam>
+		<karana>తైతుల  05:33 am,  గరజి  05:31 pm </karana>
+		<rahu>12:00 pm - 01:30 pm</rahu>
+		<yamag>07:18 am – 08:58 am</yamag>
+		<varjyam>12:21 am – 02:02 am</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>11:57 am - 12:48 pm</dhurmuhu>
+		<sunrise>06:10</sunrise>
+		<sunset>05:59</sunset>
+		<moonrise>09:59pm</moonrise>
+		<moonset>11:44am</moonset>
+		<festival>ప్రపంచ వన్యప్రాణి దినోత్సవం </festival>
+	</record>
+	<record>
+		<date>5</date>
+		<rutuvu>వర్ష ఋతువు</rutuvu>
+		<masam>భాద్రపద </masam>
+		<paksham>కృష్ణపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>షష్టి 05:41 am సప్తమి </thidi>
+		<vaara>గురువారము</vaara>
+		<nakshatra>మృగశిర 07:40 pm</nakshatra>
+		<yogam>వ్యతీపాతము  05:45 am</yogam>
+		<karana>పణజి  05:41 am,  భద్ర  06:03 pm </karana>
+		<rahu>01:30 pm - 03:00 pm</rahu>
+		<yamag>05:37 am – 07:18 am</yamag>
+		<varjyam>04:43 am – 06:26 am</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>10:14 am - 11:05 am&lt;br&gt;03:21 pm - 04:12 pm</dhurmuhu>
+		<sunrise>06:10</sunrise>
+		<sunset>05:58</sunset>
+		<moonrise>10:52pm</moonrise>
+		<moonset>12:39pm</moonset>
+	</record>
+	<record>
+		<date>6</date>
+		<rutuvu>వర్ష ఋతువు</rutuvu>
+		<masam>భాద్రపద </masam>
+		<paksham>కృష్ణపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>సప్తమి 06:35 am</thidi>
+		<vaara>శుక్రవారము</vaara>
+		<nakshatra>ఆరుద్ర  09:31 pm</nakshatra>
+		<yogam>పరియాన్  05:22 am</yogam>
+		<karana>బవ  06:35 am,  భాలవ  07:17 pm </karana>
+		<rahu>10:30 am - 12:00 pm</rahu>
+		<yamag>03:41 pm – 05:21 pm</yamag>
+		<varjyam>10:44 am – 12:30 pm</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>08:32 am - 09:23 am&lt;br&gt;12:48 pm - 01:39 pm</dhurmuhu>
+		<sunrise>06:10</sunrise>
+		<sunset>05:57</sunset>
+		<moonrise>11:47pm</moonrise>
+		<moonset>12:39pm</moonset>
+		<festival>మధ్య అష్టమి</festival>
+	</record>
+	<record>
+		<date>7</date>
+		<rutuvu>వర్ష ఋతువు</rutuvu>
+		<masam>భాద్రపద </masam>
+		<paksham>కృష్ణపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>అష్టమి 08:08 am</thidi>
+		<vaara>శనివారము</vaara>
+		<nakshatra>పునర్వసు  11:57 pm</nakshatra>
+		<yogam>పరిఘము  05:30 am</yogam>
+		<karana>కౌలవ 08:08 am,  తైతుల  09:07 pm </karana>
+		<rahu>09:00 am - 10:30 am</rahu>
+		<yamag>02:00 pm – 03:41 pm</yamag>
+		<varjyam>08:53 am – 10:40 am</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>07:41 am - 08:32 am</dhurmuhu>
+		<sunrise>06:11</sunrise>
+		<sunset>05:57</sunset>
+		<moonrise>12:41am</moonrise>
+		<moonset>01:29pm</moonset>
+	</record>
+	<record>
+		<date>8</date>
+		<rutuvu>వర్ష ఋతువు</rutuvu>
+		<masam>భాద్రపద </masam>
+		<paksham>కృష్ణపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>నవమి 10:13 am</thidi>
+		<vaara>ఆదివారము</vaara>
+		<nakshatra>పుష్యమి  పూర్తి </nakshatra>
+		<yogam>శివము  06:02 am</yogam>
+		<karana>గరజి 10:13 am, పణజి  11:23 pm </karana>
+		<rahu>04:30 pm - 06:00 pm</rahu>
+		<yamag>12:19 pm – 01:59 pm</yamag>
+		<varjyam>05:09 pm – 06:57 pm</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>05:02 pm - 05:53 pm</dhurmuhu>
+		<sunrise>06:11</sunrise>
+		<sunset>05:56</sunset>
+		<moonrise>12:41am</moonrise>
+		<moonset>02:14pm</moonset>
+	</record>
+	<record>
+		<date>9</date>
+		<rutuvu>వర్ష ఋతువు</rutuvu>
+		<masam>భాద్రపద </masam>
+		<paksham>కృష్ణపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>దశమి 12:37 pm</thidi>
+		<vaara>సోమవారము</vaara>
+		<nakshatra>పుష్యమి 02:45 am ఆశ్లేష </nakshatra>
+		<yogam>సిద్ధము  06:50 am</yogam>
+		<karana>భద్ర 12:37 pm</karana>
+		<rahu>07:30 am - 09:00 am</rahu>
+		<yamag>10:38 am – 12:19 pm</yamag>
+		<varjyam>07:15 pm – 09:03 pm</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>12:47 pm - 01:38 pm&lt;br&gt;03:20 pm - 04:11 pm</dhurmuhu>
+		<sunrise>06:11</sunrise>
+		<sunset>05:55</sunset>
+		<moonrise>01:34am</moonrise>
+		<moonset>02:55pm</moonset>
+	</record>
+	<record>
+		<date>10</date>
+		<rutuvu>వర్ష ఋతువు</rutuvu>
+		<masam>భాద్రపద </masam>
+		<paksham>కృష్ణపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>ఏకాదశి 03:09 pm</thidi>
+		<vaara>మంగళవారము</vaara>
+		<nakshatra>ఆశ్లేష 05:45 am మఖ </nakshatra>
+		<yogam>సాధ్యము  07:46 am</yogam>
+		<karana>బవ  01:52 am,  భాలవ  03:09 pm </karana>
+		<rahu>03:00 pm - 04:30 pm</rahu>
+		<yamag>08:58 am – 10:39 am</yamag>
+		<varjyam>07:15 pm – 09:03 pm</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>08:32 am - 09:23 am&lt;br&gt; 11:15 pm - 12:00 am</dhurmuhu>
+		<sunrise>06:11</sunrise>
+		<sunset>05:54</sunset>
+		<moonrise>02:25am</moonrise>
+		<moonset>03:32pm</moonset>
+		<festival>ఇందిర ఏకాదశి</festival>
+	</record>
+	<record>
+		<date>11</date>
+		<rutuvu>వర్ష ఋతువు</rutuvu>
+		<masam>భాద్రపద </masam>
+		<paksham>కృష్ణపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>ద్వాదశి 05:37 pm</thidi>
+		<vaara>బుధవారము</vaara>
+		<nakshatra>మఖ 08:45 am</nakshatra>
+		<yogam>శుభము  08:42 am</yogam>
+		<karana>కౌలవ  04:24 am,  తైతుల  05:37 pm </karana>
+		<rahu>12:00 pm - 01:30 pm</rahu>
+		<yamag>07:18 am – 08:58 am</yamag>
+		<varjyam>05:42 pm – 07:29 pm</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>11:57 am - 12:48 pm</dhurmuhu>
+		<sunrise>06:11</sunrise>
+		<sunset>05:54</sunset>
+		<moonrise>03:14am</moonrise>
+		<moonset>04:06pm</moonset>
+		<festival>చిత్త కార్తె</festival>
+	</record>
+	<record>
+		<date>12</date>
+		<rutuvu>వర్ష ఋతువు</rutuvu>
+		<masam>భాద్రపద </masam>
+		<paksham>కృష్ణపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>త్రయోదశి 07:54 pm</thidi>
+		<vaara>గురువారము</vaara>
+		<nakshatra>పుబ్బ 11:36 am</nakshatra>
+		<yogam>శుక్రము  09:30 am</yogam>
+		<karana>గరజి  06:47 am,  పణజి  07:54 pm </karana>
+		<rahu>01:30 pm - 03:00 pm</rahu>
+		<yamag>05:37 am – 07:18 am</yamag>
+		<varjyam>07:34 pm – 09:21 pm</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>10:14 am - 11:05 am&lt;br&gt;03:21 pm - 04:12 pm</dhurmuhu>
+		<sunrise>06:12</sunrise>
+		<sunset>05:53</sunset>
+		<moonrise>04:02am</moonrise>
+		<moonset>04:39pm</moonset>
+		<festival>మాస శివరాత్రి </festival>
+	</record>
+	<record>
+		<date>13</date>
+		<rutuvu>వర్ష ఋతువు</rutuvu>
+		<masam>భాద్రపద </masam>
+		<paksham>కృష్ణపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>చతుర్దశి 09:51 pm</thidi>
+		<vaara>శుక్రవారము</vaara>
+		<nakshatra>ఉత్తర 02:11 pm</nakshatra>
+		<yogam>బ్రహ్మము  10:05 am</yogam>
+		<karana>భద్ర  08:55 am,  శకునే  09:51 pm </karana>
+		<rahu>10:30 am - 12:00 pm</rahu>
+		<yamag>03:41 pm – 05:21 pm</yamag>
+		<varjyam>11:21 pm – 01:06 am</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>08:32 am - 09:23 am&lt;br&gt;12:48 pm - 01:39 pm</dhurmuhu>
+		<sunrise>06:12</sunrise>
+		<sunset>05:52</sunset>
+		<moonrise>04:50am</moonrise>
+		<moonset>05:11pm</moonset>
+	</record>
+	<record>
+		<date>14</date>
+		<rutuvu>వర్ష ఋతువు</rutuvu>
+		<masam>భాద్రపద </masam>
+		<paksham>కృష్ణపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>అమావాస్య 11:24 pm</thidi>
+		<vaara>శనివారము</vaara>
+		<nakshatra>హస్త 04:24 pm</nakshatra>
+		<yogam>ఐంద్రము  10:24 am</yogam>
+		<karana>చతుష్పాతు  10:41 am&lt;br&gt;  నాగవము  11:25 pm </karana>
+		<rahu>09:00 am - 10:30 am</rahu>
+		<yamag>02:00 pm – 03:41 pm</yamag>
+		<varjyam>01:00 am – 02:43 am</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>07:41 am - 08:32 am</dhurmuhu>
+		<sunrise>06:12</sunrise>
+		<sunset>05:51</sunset>
+		<moonrise>05:37am</moonrise>
+		<moonset>06:44pm</moonset>
+		<festival> అమావాస్య</festival>
+	</record>
+	<record>
+		<date>15</date>
+		<rutuvu>శరదృతువు</rutuvu>
+		<masam>ఆశ్వయుజ </masam>
+		<paksham>శుక్లపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>పాడ్యమి పూర్తి </thidi>
+		<vaara>ఆదివారము</vaara>
+		<nakshatra>చిత్తా 06:12 pm</nakshatra>
+		<yogam>వైదృతి  10:24 am</yogam>
+		<karana>కీమస్తుఘ్నము  12:02 pm</karana>
+		<rahu>04:30 pm - 06:00 pm</rahu>
+		<yamag>12:19 pm – 01:59 pm</yamag>
+		<varjyam>12:08 am – 01:49 am</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>05:02 pm - 05:53 pm</dhurmuhu>
+		<sunrise>06:12</sunrise>
+		<sunset>05:51</sunset>
+		<moonrise>06:27am</moonrise>
+		<moonset>06:19pm</moonset>
+	</record>
+	<record>
+		<date>16</date>
+		<rutuvu>శరదృతువు</rutuvu>
+		<masam>ఆశ్వయుజ </masam>
+		<paksham>శుక్లపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>పాడ్యమి 12:32 am విదియ </thidi>
+		<vaara>సోమవారము</vaara>
+		<nakshatra>స్వాతి 07:35 pm</nakshatra>
+		<yogam>విష్కంభము 10:03 am</yogam>
+		<karana>బవ 12:32 am,  భాలవ 12:56 pm </karana>
+		<rahu>07:30 am - 09:00 am</rahu>
+		<yamag>10:38 am – 12:19 pm</yamag>
+		<varjyam>01:24 am – 03:04 am</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>12:47 pm - 01:38 pm&lt;br&gt;03:20 pm - 04:11 pm</dhurmuhu>
+		<sunrise>06:13</sunrise>
+		<sunset>05:50</sunset>
+		<moonrise>07:18am</moonrise>
+		<moonset>06:54pm</moonset>
+		<festival>చంద్రోదయం</festival>
+	</record>
+	<record>
+		<date>17</date>
+		<rutuvu>శరదృతువు</rutuvu>
+		<masam>ఆశ్వయుజ </masam>
+		<paksham>శుక్లపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>విదియ 01:13 am తదియ </thidi>
+		<vaara>మంగళవారము</vaara>
+		<nakshatra>విశాఖ 08:31 pm</nakshatra>
+		<yogam>ప్రీతి  09:21 am</yogam>
+		<karana>కౌలవ  01:13 am,  తైతుల  01:23 pm </karana>
+		<rahu>03:00 pm - 04:30 pm</rahu>
+		<yamag>08:58 am – 10:39 am</yamag>
+		<varjyam>12:36 am – 02:14 am</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>08:32 am - 09:23 am&lt;br&gt; 11:15 pm - 12:00 am</dhurmuhu>
+		<sunrise>06:13</sunrise>
+		<sunset>05:49</sunset>
+		<moonrise>08:12am</moonrise>
+		<moonset>07:39pm</moonset>
+	</record>
+	<record>
+		<date>18</date>
+		<rutuvu>శరదృతువు</rutuvu>
+		<masam>ఆశ్వయుజ </masam>
+		<paksham>శుక్లపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>తదియ 01:26 am చవితి </thidi>
+		<vaara>బుధవారము</vaara>
+		<nakshatra>అనూరాధ 09:00 pm</nakshatra>
+		<yogam>ఆయుష్మాన్  08:18 am</yogam>
+		<karana>గరజి  01:26 am,  పణజి  01:23 pm </karana>
+		<rahu>12:00 pm - 01:30 pm</rahu>
+		<yamag>07:18 am – 08:58 am</yamag>
+		<varjyam>02:37 am – 04:13 am</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>11:57 am - 12:48 pm</dhurmuhu>
+		<sunrise>06:13</sunrise>
+		<sunset>05:49</sunset>
+		<moonrise>09:10am</moonrise>
+		<moonset>08:27pm</moonset>
+		<festival>తులా కావేరి స్నానం</festival>
+	</record>
+	<record>
+		<date>19</date>
+		<rutuvu>శరదృతువు</rutuvu>
+		<masam>ఆశ్వయుజ </masam>
+		<paksham>శుక్లపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>చవితి 01:12 am పంచమి </thidi>
+		<vaara>గురువారము</vaara>
+		<nakshatra>జ్యేష్ఠ  09:03 pm</nakshatra>
+		<yogam>సౌభాగ్యము  06:54 am</yogam>
+		<karana>భద్ర  01:12 am,  బవ  12:55 pm </karana>
+		<rahu>01:30 pm - 03:00 pm</rahu>
+		<yamag>05:37 am – 07:18 am</yamag>
+		<varjyam>07:06 pm – 08:41 pm</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>10:14 am - 11:05 am&lt;br&gt;03:21 pm - 04:12 pm</dhurmuhu>
+		<sunrise>06:13</sunrise>
+		<sunset>05:48</sunset>
+		<moonrise>10:10am</moonrise>
+		<moonset>09:20pm</moonset>
+		<festival>లలితా పంచమి </festival>
+	</record>
+	<record>
+		<date>20</date>
+		<rutuvu>శరదృతువు</rutuvu>
+		<masam>ఆశ్వయుజ </masam>
+		<paksham>శుక్లపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>పంచమి 12:31 am షష్టి 11:25 pm</thidi>
+		<vaara>శుక్రవారము</vaara>
+		<nakshatra>మూల 08:41 pm</nakshatra>
+		<yogam>శోభనము  05:08 am</yogam>
+		<karana>భాలవ  12:32 am,  కౌలవ 12:01 pm&lt;br&gt;  తైతుల  11:25 pm </karana>
+		<rahu>10:30 am - 12:00 pm</rahu>
+		<yamag>03:41 pm – 05:21 pm</yamag>
+		<varjyam>05:58 am – 07:31 am</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>08:32 am - 09:23 am&lt;br&gt;12:48 pm - 01:39 pm</dhurmuhu>
+		<sunrise>06:14</sunrise>
+		<sunset>05:47</sunset>
+		<moonrise>11:11am</moonrise>
+		<moonset>10:19pm</moonset>
+		<festival> 	స్కంద షష్టి </festival>
+	</record>
+	<record>
+		<date>21</date>
+		<rutuvu>శరదృతువు</rutuvu>
+		<masam>ఆశ్వయుజ </masam>
+		<paksham>శుక్లపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>సప్తమి  09:53 pm</thidi>
+		<vaara>శనివారము</vaara>
+		<nakshatra>పూర్వాషాఢ 07:54 pm</nakshatra>
+		<yogam>అతిగండము  03:02 am</yogam>
+		<karana>గరజి  10:42 am,  పణజి  09:53 pm </karana>
+		<rahu>09:00 am - 10:30 am</rahu>
+		<yamag>02:00 pm – 03:41 pm</yamag>
+		<varjyam>03:30 am – 05:02 am</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>07:41 am - 08:32 am</dhurmuhu>
+		<sunrise>06:14</sunrise>
+		<sunset>05:47</sunset>
+		<moonrise>12:10pm</moonrise>
+		<moonset>11:22pm</moonset>
+		<festival> 	సరస్వతి పూజ</festival>
+	</record>
+	<record>
+		<date>22</date>
+		<rutuvu>శరదృతువు</rutuvu>
+		<masam>ఆశ్వయుజ </masam>
+		<paksham>శుక్లపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>అష్టమి 07:59 pm</thidi>
+		<vaara>ఆదివారము</vaara>
+		<nakshatra>ఉత్తరాషాఢ  06:44 pm</nakshatra>
+		<yogam>సుకర్మము  12:36 am,  ధృతి  09:52 pm </yogam>
+		<karana>భద్ర  08:59 am, బవ  07:59 pm </karana>
+		<rahu>04:30 pm - 06:00 pm</rahu>
+		<yamag>12:19 pm – 01:59 pm</yamag>
+		<varjyam>10:29 pm – 11:59 pm</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>05:02 pm - 05:53 pm</dhurmuhu>
+		<sunrise>06:14</sunrise>
+		<sunset>05:46</sunset>
+		<moonrise>01:05pm</moonrise>
+		<moonset>12:26am</moonset>
+		<festival>దుర్గాష్టమి</festival>
+	</record>
+	<record>
+		<date>23</date>
+		<rutuvu>శరదృతువు</rutuvu>
+		<masam>ఆశ్వయుజ </masam>
+		<paksham>శుక్లపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>నవమి 05:45 pm</thidi>
+		<vaara>సోమవారము</vaara>
+		<nakshatra>శ్రవణం   05:14 pm</nakshatra>
+		<yogam>శూలము  06:52 pm</yogam>
+		<karana>భాలవ 06:54 am, కౌలవ  05:45 pm </karana>
+		<rahu>07:30 am - 09:00 am</rahu>
+		<yamag>10:38 am – 12:19 pm</yamag>
+		<varjyam>08:56 pm – 10:25 pm</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>12:47 pm - 01:38 pm&lt;br&gt;03:20 pm - 04:11 pm</dhurmuhu>
+		<sunrise>06:15</sunrise>
+		<sunset>05:45</sunset>
+		<moonrise>01:56pm</moonrise>
+		<moonset>01:29am</moonset>
+		<festival> 	మహర్నవమి</festival>
+	</record>
+	<record>
+		<date>24</date>
+		<rutuvu>శరదృతువు</rutuvu>
+		<masam>ఆశ్వయుజ </masam>
+		<paksham>శుక్లపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>దశమి  03:14 pm</thidi>
+		<vaara>మంగళవారము</vaara>
+		<nakshatra>ధనిష్ఠ 03:28 pm</nakshatra>
+		<yogam>గండము  03:39 pm</yogam>
+		<karana>తైతుల 04:31 am,  గరజి  03:14 pm </karana>
+		<rahu>03:00 pm - 04:30 pm</rahu>
+		<yamag>08:58 am – 10:39 am</yamag>
+		<varjyam>10:04 pm – 11:32 pm</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>08:32 am - 09:23 am&lt;br&gt; 11:15 pm - 12:00 am</dhurmuhu>
+		<sunrise>06:15</sunrise>
+		<sunset>05:45</sunset>
+		<moonrise>02:42pm</moonrise>
+		<moonset>02:30am</moonset>
+		<festival> 	విజయ దశమి</festival>
+	</record>
+	<record>
+		<date>25</date>
+		<rutuvu>శరదృతువు</rutuvu>
+		<masam>ఆశ్వయుజ </masam>
+		<paksham>శుక్లపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>ఏకాదశి 12:32 pm</thidi>
+		<vaara>బుధవారము</vaara>
+		<nakshatra>శతభిషం  01:30 pm</nakshatra>
+		<yogam>వృద్ధి 12:17 pm</yogam>
+		<karana>పణజి  01:54 am,  భద్ర  12:32 pm&lt;br&gt; బవ  11:08 pm </karana>
+		<rahu>12:00 pm - 01:30 pm</rahu>
+		<yamag>07:18 am – 08:58 am</yamag>
+		<varjyam>07:21 pm – 08:49 pm</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>11:57 am - 12:48 pm</dhurmuhu>
+		<sunrise>06:15</sunrise>
+		<sunset>05:44</sunset>
+		<moonrise>03:25pm</moonrise>
+		<moonset>03:30am</moonset>
+		<festival>పాశాంకుశ ఏకాదశి </festival>
+	</record>
+	<record>
+		<date>26</date>
+		<rutuvu>శరదృతువు</rutuvu>
+		<masam>ఆశ్వయుజ </masam>
+		<paksham>శుక్లపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>ద్వాదశి  09:44 am</thidi>
+		<vaara>గురువారము</vaara>
+		<nakshatra>పూర్వాభాద్ర 11:27 am</nakshatra>
+		<yogam>ధ్రవము  08:49 am</yogam>
+		<karana>భాలవ 09:44 am,  కౌలవ  08:20 pm </karana>
+		<rahu>01:30 pm - 03:00 pm</rahu>
+		<yamag>05:37 am – 07:18 am</yamag>
+		<varjyam>08:14 pm – 09:42 pm</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>10:14 am - 11:05 am&lt;br&gt;03:21 pm - 04:12 pm</dhurmuhu>
+		<sunrise>06:16</sunrise>
+		<sunset>05:44</sunset>
+		<moonrise>04:05pm</moonrise>
+		<moonset>04:28am</moonset>
+		<festival> 	ప్రదోష వ్రతం</festival>
+	</record>
+	<record>
+		<date>27</date>
+		<rutuvu>శరదృతువు</rutuvu>
+		<masam>ఆశ్వయుజ </masam>
+		<paksham>శుక్లపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>త్రయోదశి  06:57 am చతుర్దశి </thidi>
+		<vaara>శుక్రవారము</vaara>
+		<nakshatra>ఉత్తరాభాద్ర 09:24 am</nakshatra>
+		<yogam>వ్యాఘాతము  05:22 am</yogam>
+		<karana>తైతుల  06:57 am,  గరజి  05:36 pm </karana>
+		<rahu>10:30 am - 12:00 pm</rahu>
+		<yamag>03:41 pm – 05:21 pm</yamag>
+		<varjyam>08:28 pm – 09:56 pm</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>08:32 am - 09:23 am&lt;br&gt;12:48 pm - 01:39 pm</dhurmuhu>
+		<sunrise>06:16</sunrise>
+		<sunset>05:43</sunset>
+		<moonrise>04:45pm</moonrise>
+		<moonset>05:27am</moonset>
+	</record>
+	<record>
+		<date>28</date>
+		<rutuvu>శరదృతువు</rutuvu>
+		<masam>ఆశ్వయుజ </masam>
+		<paksham>శుక్లపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>చతుర్దశి 04:17 am పౌర్ణమి </thidi>
+		<vaara>శనివారము</vaara>
+		<nakshatra>రేవతి 07:31 am అశ్విని </nakshatra>
+		<yogam>హర్షణము  02:01 am, వజ్రము 10:52 pm </yogam>
+		<karana>పణజి  04:17 am,  భద్ర  03:03 pm </karana>
+		<rahu>09:00 am - 10:30 am</rahu>
+		<yamag>02:00 pm – 03:41 pm</yamag>
+		<varjyam>03:01 pm – 04:32 pm</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>07:41 am - 08:32 am</dhurmuhu>
+		<sunrise>06:16</sunrise>
+		<sunset>05:43</sunset>
+		<moonrise>05:26pm</moonrise>
+		<moonset>06:27am</moonset>
+		<festival> 	పౌర్ణమి</festival>
+	</record>
+	<record>
+		<date>29</date>
+		<rutuvu>శరదృతువు</rutuvu>
+		<masam>ఆశ్వయుజ </masam>
+		<paksham>కృష్ణపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>పౌర్ణమి 01:53 am పాడ్యమి 11:53 pm</thidi>
+		<vaara>ఆదివారము</vaara>
+		<nakshatra>అశ్విని 05:54 am భరణి </nakshatra>
+		<yogam>సిద్ధి  08:00 pm</yogam>
+		<karana>బవ  01:54 am,  భాలవ  12:50 pm&lt;br&gt;కౌలవ 11:53 pm </karana>
+		<rahu>04:30 pm - 06:00 pm</rahu>
+		<yamag>12:19 pm – 01:59 pm</yamag>
+		<varjyam>04:21 pm – 05:54 pm</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>05:02 pm - 05:53 pm</dhurmuhu>
+		<sunrise>06:17</sunrise>
+		<sunset>05:42</sunset>
+		<moonrise>06:09pm</moonrise>
+		<moonset>07:27am</moonset>
+	</record>
+	<record>
+		<date>30</date>
+		<rutuvu>శరదృతువు</rutuvu>
+		<masam>ఆశ్వయుజ </masam>
+		<paksham>కృష్ణపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>విదియ 10:23 pm</thidi>
+		<vaara>సోమవారము</vaara>
+		<nakshatra>భరణి 04:42 am కృత్తిక </nakshatra>
+		<yogam>వ్యతీపాతము  05:33 pm</yogam>
+		<karana>తైతుల  11:04 am,  గరజి  10:23 pm </karana>
+		<rahu>07:30 am - 09:00 am</rahu>
+		<yamag>10:38 am – 12:19 pm</yamag>
+		<varjyam>07:59 pm – 09:34 pm</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>12:47 pm - 01:38 pm&lt;br&gt;03:20 pm - 04:11 pm</dhurmuhu>
+		<sunrise>06:17</sunrise>
+		<sunset>05:42</sunset>
+		<moonrise>06:56pm</moonrise>
+		<moonset>08:29am</moonset>
+	</record>
+	<record>
+		<date>31</date>
+		<rutuvu>శరదృతువు</rutuvu>
+		<masam>ఆశ్వయుజ </masam>
+		<paksham>కృష్ణపక్షం</paksham>
+		<kalam>వర్షాకాలం</kalam>
+		<thidi>తదియ 09:30 pm</thidi>
+		<vaara>మంగళవారము</vaara>
+		<nakshatra>కృత్తిక 04:01 am రోహిణి </nakshatra>
+		<yogam>పరియాన్  03:33 pm</yogam>
+		<karana>పణజి  09:52 am,  భద్ర  09:30 pm </karana>
+		<rahu>03:00 pm - 04:30 pm</rahu>
+		<yamag>08:58 am – 10:39 am</yamag>
+		<varjyam>09:43 am – 11:21 am</varjyam>
+		<gulika>సమాచారం అందుబాటులో లేదు</gulika>
+		<dhurmuhu>08:32 am - 09:23 am&lt;br&gt; 11:15 pm - 12:00 am</dhurmuhu>
+		<sunrise>06:17</sunrise>
+		<sunset>05:41</sunset>
+		<moonrise>07:46pm</moonrise>
+		<moonset>09:29am</moonset>
+		<festival>ఉండ్రాళ్ళ తద్దె </festival>
+	</record>
+</data-set>

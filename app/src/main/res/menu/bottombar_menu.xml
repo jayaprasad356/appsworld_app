@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/Panchangam"
+        android:icon="@drawable/panchangam"
+        android:iconTint="@color/white"
+        android:title="పంచాంగం"/>
+    <item
+        android:id="@+id/Pandugalu"
+        android:icon="@drawable/pandugalu"
+        android:iconTint="@color/white"
+        android:title="పండుగలు"/>
+    <item
+        android:id="@+id/Muhurthalu"
+        android:icon="@drawable/muhurtham"
+        android:iconTint="@color/white"
+        android:title="ముహుర్తాలు"/>
+    <item
+        android:id="@+id/RashiPhalalu"
+        android:icon="@drawable/rasiphalalu"
+        android:iconTint="@color/white"
+        android:title="రాశి ఫలాలు"/>
+    <item
+        android:visible="false"
+        android:id="@+id/More"
+        android:enabled="true"
+        android:icon="@drawable/marikonni"
+        android:iconTint="@color/white"
+        android:title="మరి కొన్ని"/>
+</menu>
